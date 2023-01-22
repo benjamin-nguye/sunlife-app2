@@ -1,4 +1,4 @@
-import Head from 'next/head'
+  import Head from 'next/head'
 import styles from '../../styles/Form.module.css'
 //import Link from 'next/Link'
 import {useRouter} from 'next/router'
@@ -52,3 +52,12 @@ export default function Form() {
       </>
   )
 }
+
+{/*export async function getStaticPaths() {
+  return {
+    paths: [
+      { params: {id: '1'}}
+    ],
+    fallback: false
+  }
+}*/}

@@ -1,9 +1,10 @@
 {
   "/_app": "pages/_app.js",
-  "/form": "pages/form.js",
-  "/form/results": "pages/form/results.js",
-  "/form/results/noauth": "pages/form/results/noauth.js",
-  "/": "pages/index.js",
   "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js"
+  "/form": "pages/form.html",
+  "/": "pages/index.html",
+  "/form/results/noauth": "pages/form/results/noauth.html",
+  "/form/results": "pages/form/results.html",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
 }
