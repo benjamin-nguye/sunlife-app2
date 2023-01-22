@@ -1,0 +1,59 @@
+
+
+#main {
+    width: 30%;
+    margin: auto;
+}
+
+#form {
+
+    margin-top: 20px;
+
+}
+
+#mainHeader {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.formlabel {
+    font-size: 12px;
+    margin-top: 15px;
+    text-align: left;
+    color: rgb(100, 1, 147);
+}
+
+.income {
+    margin-bottom: 40px;
+}
+
+#forminput {
+    font-size: 14px;
+}
+#forminput::placeholder {
+    font-size: 12px;
+}
+
+#buttonlayout {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+
+}
+#submitbutton {
+    background-color:rgb(100, 1, 147);
+    color: white;
+    text-align: center;
+    border: none;
+    border-radius: 4px;
+    padding: 6px;
+    box-shadow: 2px 2px 2px rgb(224, 224, 224);
+    transition: opacity 0.15s;
+}
+
+#submitbutton:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}

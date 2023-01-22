@@ -1,0 +1,9 @@
+{
+  "/_app": "pages/_app.js",
+  "/form": "pages/form.js",
+  "/form/results": "pages/form/results.js",
+  "/form/results/noauth": "pages/form/results/noauth.js",
+  "/": "pages/index.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js"
+}
