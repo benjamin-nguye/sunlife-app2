@@ -1,0 +1,20 @@
+.header {
+    text-align: center;
+    background-color: rgb(100, 1, 147);
+    
+
+    top: -4px;
+    left: 0;
+    right: 0;
+    height: 95px;
+
+
+   
+}
+
+.myfirstfinance {
+    font-size: 40px;
+    color: white;
+    text-align: left;
+    padding-bottom: 10px;
+}
